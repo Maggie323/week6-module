@@ -73,8 +73,10 @@ div:hover {
 }
 .seven {
   float: left;
+  clear: left;
 }
-.eight: {
+.eight {
+  float: right;
   clear: right;
 }
 .nine {
