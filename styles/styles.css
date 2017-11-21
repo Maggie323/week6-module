@@ -1,0 +1,91 @@
+/*
+.class {
+ font-weight: 700; 
+}
+.red {
+  color: red;
+}
+*/
+/*
+div {
+  width: 5vw;
+  height:10vw;
+  
+  background-color: red;
+  -webkit-transition: width 2s, height 4s; 
+  transition: width 2s,height 4s;
+ -webkit-transition-timing-function: linear;
+  transition-timing-function: linear;
+}
+
+div:hover {
+  width: 10vw;
+  height: 20vw
+}
+*/
+
+.bg-black {
+  background-color: black;
+}
+.bg-blue {
+  background-color: blue;
+}
+.bg-gray {
+  background-color: gray;
+}
+.bg-red {
+  background-color: red;
+}
+
+.swatches li {
+  border-radius: 50%;
+  height: 1rem;
+  width: 1rem;
+  float: left;
+  margin: .5em;
+  list-style: none;
+}
+
+.strikethrough {
+  text-decoration: line-through;
+}
+.price {
+  color: red;
+}
+.one {
+  float: left;
+}
+.two {
+  float: right;
+}
+.three {
+  clear: left;
+}
+.four {
+  float: right;
+}
+.five {
+  clear : left;
+}
+.six {
+  float: right;
+  clear: right;
+}
+.seven {
+  float: left;
+}
+.eight: {
+  clear: right;
+}
+.nine {
+  float: left;
+  clear: left;
+}
+.ten {
+  float: right;
+}
+
+
+
+
+
